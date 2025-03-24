@@ -1,7 +1,6 @@
 hi i'm sabrina ^_^
 
-i'm working on my honours project which involves _in-silico_ modelling of a chimeric protein
-
+i'm in my final year of undergrad! :D 
 <!--
 **salmonsabshimi/salmonsabshimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
