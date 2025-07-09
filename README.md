@@ -1,6 +1,5 @@
-Hi I'm sabrina ^_^
+Hi I'm Sabrina ^_^
 
-I just finished my final year of undergrad! :D 
 <!--
 **salmonsabshimi/salmonsabshimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
